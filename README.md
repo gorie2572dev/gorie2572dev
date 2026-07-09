@@ -1,9 +1,13 @@
-<h1 align="center">GORIE2572DEV</h1>
+<h1 align="center">GORIE</h1>
 
 <h3 align="center">Mobile Developer | Cross-platform & Native Apps | Clean Architecture Learner</h3>
 
 <p align="center">
   Building mobile apps with Flutter · Turning ideas into clean UI · Learning better architecture every day
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=2800&pause=700&color=0F766E&center=true&vCenter=true&width=780&lines=Building+mobile+app+with+AI+Native+Engineer;Building+cross-platform+and+native+apps;Shipping+clean+mobile+UI" alt="Typing animation" />
 </p>
 
 <div align="center">
@@ -52,9 +56,9 @@ currently  : building mobile UI and shipping small products
 | `clean_architecture_demo` | Clean Architecture practice and code separation |
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=gorie25&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gorie25&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gorie25&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=gorie2572dev&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gorie2572dev&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gorie2572dev&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gorie25&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=gorie2572dev&icon=0&color=0)](https://visitcount.itsvg.in)
