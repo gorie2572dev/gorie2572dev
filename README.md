@@ -57,6 +57,12 @@ currently  : building mobile UI and shipping small products
 
 # 📊GitHub Stats :
 
+## Contribution Graph
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/0F766E/gorie2572dev" alt="Gorie contribution graph" />
+</p>
+
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gorie2572dev&theme=radical" alt="GitHub stats summary" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gorie2572dev&theme=radical" alt="Top languages by repository" />
