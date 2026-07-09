@@ -56,9 +56,22 @@ currently  : building mobile UI and shipping small products
 | `clean_architecture_demo` | Clean Architecture practice and code separation |
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=gorie2572dev&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gorie2572dev&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gorie2572dev&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gorie2572dev&theme=radical" alt="GitHub stats summary" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gorie2572dev&theme=radical" alt="Top languages by repository" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gorie2572dev&theme=radical" alt="Top languages by commit" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gorie2572dev&theme=radical&utcOffset=7" alt="Productive time" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gorie2572dev&theme=radical&hide_border=false" alt="GitHub streak" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gorie2572dev&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gorie2572dev&style=for-the-badge&color=0F766E&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
