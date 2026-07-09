@@ -73,10 +73,6 @@ currently  : building mobile UI and shipping small products
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gorie2572dev&theme=radical&utcOffset=7" alt="Productive time" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gorie2572dev&theme=radical&hide_border=false" alt="GitHub streak" />
-</p>
-
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gorie2572dev&style=for-the-badge&color=0F766E&label=PROFILE+VIEWS" alt="Profile views" />
