@@ -51,20 +51,10 @@ currently  : building mobile UI and shipping small products
 | `task_manager_app` | Productivity flow, forms, local app structure |
 | `clean_architecture_demo` | Clean Architecture practice and code separation |
 
-## GitHub Signal
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=gorie25&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gorie25&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gorie25&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gorie2572dev&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gorie2572dev&theme=radical&hide_border=false" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gorie2572dev&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gorie2572dev&style=for-the-badge&color=0F766E&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=gorie25&icon=0&color=0)](https://visitcount.itsvg.in)
