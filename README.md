@@ -1,11 +1,9 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,55:0F766E,100:22D3EE&text=GORIE2572DEV&fontColor=F8FAFC&fontSize=54&fontAlignY=38&desc=Mobile%20Developer%20%7C%20Cross-platform%20%26%20Native%20Apps%20%7C%20Clean%20Architecture%20Learner&descAlignY=58&descSize=16" alt="Gorie2572dev profile banner" />
-</p>
+<h1 align="center">GORIE2572DEV</h1>
+
+<h3 align="center">Mobile Developer | Cross-platform & Native Apps | Clean Architecture Learner</h3>
 
 <p align="center">
-  <a href="https://github.com/gorie2572dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=2800&pause=700&color=22D3EE&center=true&vCenter=true&width=720&lines=Building+mobile+apps+with+Flutter;Turning+ideas+into+clean+UI;Learning+better+architecture+every+day" alt="Typing intro" />
-  </a>
+  Building mobile apps with Flutter · Turning ideas into clean UI · Learning better architecture every day
 </p>
 
 <div align="center">
@@ -56,16 +54,15 @@ currently  : building mobile UI and shipping small products
 ## GitHub Signal
 
 <p align="center">
-  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gorie2572dev&theme=github_dark" alt="GitHub profile details" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gorie2572dev&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gorie2572dev&theme=github_dark" alt="Repositories per language" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gorie2572dev&theme=github_dark" alt="GitHub contribution stats" />
+  <img src="https://streak-stats.demolab.com?user=gorie2572dev&theme=radical&hide_border=false" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gorie2572dev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gorie2572dev&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top languages" />
 </p>
 
 <p align="center">
