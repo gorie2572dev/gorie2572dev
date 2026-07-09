@@ -1,17 +1,75 @@
-## Hi there 👋
-- 🔭 I’m Trương Tiến or Gorie
-- 🌱 I’m currently learning Flutter
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,55:0F766E,100:22D3EE&text=GORIE2552DEV&fontColor=F8FAFC&fontSize=54&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Mobile%20UI%20Builder%20%7C%20Clean%20Architecture%20Learner&descAlignY=58&descSize=16" alt="Gorie2552dev profile banner" />
+</p>
 
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100013305872763) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ti%E1%BA%BFn-tr%C6%B0%C6%A1ng-7ba046289/) 
+<p align="center">
+  <a href="https://github.com/gorie2552dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=2800&pause=700&color=22D3EE&center=true&vCenter=true&width=720&lines=Building+mobile+apps+with+Flutter;Turning+ideas+into+clean+UI;Learning+better+architecture+every+day" alt="Typing intro" />
+  </a>
+</p>
 
-# 💻Tech Stack
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=gorie25&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gorie25&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gorie25&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/Facebook-0F766E?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100013305872763)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-075985?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ti%E1%BA%BFn-tr%C6%B0%C6%A1ng-7ba046289/)
+[![Instagram](https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=22D3EE)](https://www.instagram.com/goriee25/)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gorie25&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## `whoami`
+
+```txt
+name       : Tien Truong
+username   : gorie2552dev
+role       : Flutter Developer
+location   : Ho Chi Minh City, Vietnam
+focus      : mobile UI, clean architecture, useful apps
+currently  : learning Flutter deeply and shipping small products
+```
+
+## Design Direction
+
+**Aesthetic:** editorial terminal.
+
+**DFII:** 13/15.
+
+**Anchor:** high-contrast wave banner + command-line identity block. This avoids generic UI by using a terminal/editorial profile rhythm instead of a plain badge wall.
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,cs,java,html,css,nextjs,mongodb,mysql,git,github&perline=6" alt="Tech stack icons" />
+</p>
+
+## Featured Work
+
+| Project | What it shows |
+| --- | --- |
+| `QuizzApp` | Flutter UI, state flow, quiz experience |
+| `weathermobileapp` | API data, weather interface, mobile layout |
+| `weatherforecastapp` | Forecast logic, clean screen structure |
+| `task_manager_app` | Productivity flow, forms, local app structure |
+| `clean_architecture_demo` | Clean Architecture practice and code separation |
+
+## GitHub Signal
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gorie2552dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorie2552dev&theme=tokyonight&hide_border=true&layout=compact" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gorie2552dev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+## Current Loop
+
+```txt
+learn Flutter -> build UI -> refactor architecture -> publish repo -> repeat
+```
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gorie2552dev&style=for-the-badge&color=0F766E&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
