@@ -1,66 +1,30 @@
-<h1 align="center">GORIE</h1>
-
-<h3 align="center">Mobile Developer | Cross-platform & Native Apps | Clean Architecture Learner</h3>
-
-<p align="center">
-  Building mobile apps with Flutter · Turning ideas into clean UI · Learning better architecture every day
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=2800&pause=700&color=0F766E&center=true&vCenter=true&width=780&lines=Building+mobile+app+with+AI+Native+Engineer;Building+cross-platform+and+native+apps;Shipping+clean+mobile+UI" alt="Typing animation" />
-</p>
-
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-0F766E?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100013305872763)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-075985?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ti%E1%BA%BFn-tr%C6%B0%C6%A1ng-7ba046289/)
-[![Instagram](https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=22D3EE)](https://www.instagram.com/goriee25/)
+<img src="assets/header.svg" alt="Truong Vinh Tien (Gorie) — Mobile Developer working with Flutter and Swift in Ho Chi Minh City" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3500&amp;pause=1000&amp;color=8056AD&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Building+with+Flutter+%26+Swift;Clean+Architecture+%7C+Thoughtful+UX;From+mobile+development+to+App+Store+%26+Google+Play" alt="Building with Flutter and Swift · Clean Architecture · Thoughtful UX · App Store and Google Play" width="90%"/>
+
+<img src="assets/about.svg" alt="About me — Techstack: Flutter, Swift, Kotlin, Java, React Native; Clean Architecture, MVVM, Riverpod, Bloc, MobX; Fastlane and GitLab CI/CD" width="100%"/>
+
+<img src="assets/experience.svg" alt="Experience — VNPT (May 2026–present), Yody (March–May 2026), Suga Group (May 2025–March 2026), HPT (November 2024–March 2025), APT Team (June–September 2024)" width="100%"/>
+
+<img src="assets/projects.svg" alt="CV projects — YodyEcom: e-commerce monorepo and shared design system. Santa Pocket: smart lockers, mini-apps, and payments. SantaFood: Backend food pre-ordering." width="100%"/>
+
+<img src="assets/highlights.svg" alt="Education and achievements — UIT, Bachelor of Information System (2021–2025); Provincial Informatics Second Prize; Google Foundations of UX Design" width="100%"/>
+
+<a href="https://grie-portfolio.vercel.app"><img src="assets/contact_portfolio.svg" alt="Portfolio — explore my work" width="24%"/></a>
+<a href="https://www.linkedin.com/in/gorietapdev/"><img src="assets/contact_linkedin.svg" alt="LinkedIn — connect with Truong Vinh Tien" width="24%"/></a>
+<a href="mailto:truongvinhtien2572@gmail.com"><img src="assets/contact_gmail.svg" alt="Email — truongvinhtien2572@gmail.com" width="24%"/></a>
+<a href="https://github.com/gorie2572dev"><img src="assets/contact_github.svg" alt="GitHub — gorie2572dev" width="24%"/></a>
 
 </div>
-
----
-
-## `whoami`
-
-```txt
-name       : Tien Truong
-username   : gorie2572dev
-role       : Mobile Developer
-location   : Ho Chi Minh City, Vietnam
-focus      : cross-platform apps, native mobile, clean architecture
-currently  : building mobile UI and shipping small products
-```
-
-## Design Direction
-
-**Aesthetic:** editorial terminal.
-
-**DFII:** 13/15.
-
-**Anchor:** high-contrast wave banner + command-line identity block. This avoids generic UI by using a terminal/editorial profile rhythm instead of a plain badge wall.
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,cs,java,html,css,nextjs,mongodb,mysql,git,github&perline=6" alt="Tech stack icons" />
-</p>
-
-## Featured Work
-
-| Project | What it shows |
-| --- | --- |
-| `QuizzApp` | Flutter UI, state flow, quiz experience |
-| `weathermobileapp` | API data, weather interface, mobile layout |
-| `weatherforecastapp` | Forecast logic, clean screen structure |
-| `task_manager_app` | Productivity flow, forms, local app structure |
-| `clean_architecture_demo` | Clean Architecture practice and code separation |
 
 # 📊GitHub Stats :
 
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/0F766E/gorie2572dev" alt="Gorie contribution graph" />
+  <img src="https://ghchart.rshah.org/B8860B/gorie2572dev" alt="Gorie contribution graph" />
 </p>
 
 <p align="center">
@@ -75,5 +39,5 @@ currently  : building mobile UI and shipping small products
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gorie2572dev&style=for-the-badge&color=0F766E&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=gorie2572dev&style=for-the-badge&color=B8860B&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
